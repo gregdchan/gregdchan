@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+I'm Greg! I'm a seasoned IT and digital communications professional with a growing interest in Interaction Design. 
 
 <!--
 **gregdchan/gregdchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
