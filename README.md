@@ -1,6 +1,6 @@
 ### Hi, I'm Greg! 👋
 Pronouns: He, Him
-Email: gregdchan@gmail.com
+<br>Email: gregdchan@gmail.com
 
 I'm an experienced IT and digital communications professional with a growing interest in programming and design for accessibility. 
 
