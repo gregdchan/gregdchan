@@ -2,7 +2,7 @@
 Pronouns: He, Him
 <br>Email: gregdchan@gmail.com
 
-I'm an experienced IT and digital communications professional with a growing interest in design for accessibility. 
+I'm an experienced Information Technology and Digital Communications professional with a growing interest in design for accessibility. Currently a graduate student in NYU's Global Interactive Media Arts Program. 
 
 <!--
 **gregdchan/gregdchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
