@@ -1,8 +1,9 @@
 ### Hi, I'm Greg! 👋
 Pronouns: He, Him
-<br>
-I’m a Guyana-born, US-based technologist, interdisciplinary designer, and budding entrepreneur. Currently, I'm a Technology and Media Services Manager, with a growing interest in Innovation and Design Thinking. Most recently, I graduated Cohor B of NYU Tisch + Shanghai Joint Global Interactive Media Arts Low Residency Masters Program and Cohort 8 of Communitas Ventures Accelerator (on the same day!). In the last year, I've researched special interest topics such as Accessibility, US Cannabis Culture, and Indigenous/Caribbean Futures, while applying a range of emerging technology to explore digital experiences and practical, interactive solutions. Noticing a major gap in safe usage tools for cannabis, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending products.
-<br>Email: gregdchan@gmail.com
+<br><br>
+I’m a Guyana-born, US-based technologist, interdisciplinary designer, and entrepreneur, with a growing interest in Design Thinking. Most recently, I graduated Cohor B of NYU Tisch + Shanghai Joint Global Interactive Media Arts Low Residency Masters Program and Cohort 8 of Communitas Ventures Accelerator (on the same day!). In the last year, I've researched special interest topics such as Accessibility, US Cannabis Culture, and Indigenous/Caribbean Futures, while applying a range of emerging technology to explore digital experiences and practical, interactive solutions. 
+<br><br>Noticing a major gap in safe usage tools for cannabis, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending products.
+<br><br>Email: gregdchan@gmail.com
 
 
 
