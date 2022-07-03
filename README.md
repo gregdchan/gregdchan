@@ -3,11 +3,15 @@ Pronouns: He, Him
 <br><br>
 I’m a Guyana-born, US-based technologist, interdisciplinary designer, and entrepreneur, with a growing interest in Design Thinking. 
 
-Most recently: I graduated Cohor B of NYU Tisch + Shanghai Joint Global Interactive Media Arts Low Residency Masters Program and Cohort 8 of Communitas Ventures Accelerator (on the same day!). 
+Most recently: I graduated Cohort B of NYU Tisch + Shanghai Joint Global Interactive Media Arts Low Residency Masters Program and Cohort 8 of Communitas Ventures Accelerator (on the same day!). 
 
 In the last year: I've researched special interest topics such as Accessibility, US Cannabis Culture, and Indigenous/Caribbean Futures, while applying a range of emerging technology to explore digital experiences and practical, interactive solutions. 
 
 Noticing a major gap in safe usage tools for cannabis, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending products.
+
+Stuff I know: HTML, CSS, JS, Node, ML5, TensorFlow, Unity, C, C#, C++
+
+Stuff I'm learning: React, Svelte, Web3.js, RESTful APIs
 
 If you'd like to chat, feel free to email me at: gregdchan@gmail.com
 
