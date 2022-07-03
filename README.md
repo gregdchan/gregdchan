@@ -9,9 +9,9 @@ In the last year: I've researched special interest topics such as Accessibility,
 
 Noticing a major gap in safe usage tools for cannabis, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending products.
 
-Stuff I know: HTML, CSS, JS, Node, ML5, TensorFlow, Unity, C, C#, C++
+Stuff I know: UX Design, VR Development, Physical computing/prototyping, Usability Research, HTML, CSS, JS, Node, ML5, TensorFlow, Unity, C, C#, C++
 
-Stuff I'm learning: React, Svelte, Web3.js, RESTful APIs
+Stuff I'm learning: Interaction Design, React, Svelte, Web3.js, RESTful APIs
 
 If you'd like to chat, feel free to email me at: gregdchan@gmail.com
 
