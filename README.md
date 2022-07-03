@@ -9,7 +9,7 @@ Most recently: I graduated Cohort B of NYU Tisch + Shanghai Joint Global Interac
 
 In the last year: I've researched special interest topics such as Accessibility, US Cannabis Culture, and Indigenous/Caribbean Futures, while applying a range of emerging technology to explore digital experiences and practical, interactive solutions. 
 
-Sidehustle: Noticing a major gap in well-designed tools for cannabis use, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending home storage and usage products. For Grownups aims to promote safe experiences and productive habits around cannabis use through a human-centered ecosystem of well-designed products and services.
+Sidehustle: Noticing a major gap in well-designed tools for cannabis use, I founded For Grownups Inc in May 2022 where I'm currently developing several patent-pending home storage and usage products. For Grownups aims create modern products that tackle currently emerging problems in the cannabis industry, particularly around home safety and usage management.
 
 Additionally I consult for individuals and brands seeking to use emerging technology creatively.
 
